@@ -1,0 +1,25 @@
+body {
+  background-color:bisque;
+}
+.main {
+  width:400px;
+  height:400px;
+  margin: auto;
+  margin-top:80px;
+}
+
+.js-newgame-button {
+  border:1px rgb(248, 207, 153) solid;
+  transition:0.3s;
+  padding:6px 8px 6px 8px;
+  background-color:antiquewhite;
+}
+
+.js-newgame-button:hover {
+  background-color: rgb(248, 207, 153);
+  transition:0.3s;;
+}
+
+.js-enter-number {
+  width:110px;
+}
